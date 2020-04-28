@@ -1,4 +1,4 @@
-#Growth Mindset
+# Growth Mindset
 
 - A growth mindset embraces challenges
 - A growth mindset learns from criticism
