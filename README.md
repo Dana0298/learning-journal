@@ -12,7 +12,7 @@ Hello, my name is Dana. I took the Code 101 class back in the beginning of March
 
 You can view my Github page [HERE](https://dana0298.github.io/learning-journal/)
 
-### Markdown :clipboard:
+### *Markdown Notes* 
 
 Markdown is a super simple way to add formatting like headers, bold, bulleted lists, and so on to plain text. It's simpler than HTML and you don't have to worry about opening and closing tags. 
 
