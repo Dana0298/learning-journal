@@ -1,5 +1,5 @@
 # *Growth Mindset*
-A growth mindset is believing that anyone can be smart as long as you dont give up. 
+A growth mindset is believing that anyone can be smart as long as you don't give up. 
 
 ## Remember
 - A growth mindset **embraces challenges**
