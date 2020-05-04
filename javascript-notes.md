@@ -21,4 +21,4 @@ Javascript runs where it is found in the HTML
 
 When there's a `<script>` the browser will stop to load the script and then checks to see if it needs to do anything. 
 
-`<script src="js/add-content.js"></script>`
+`<script src="js/add-content.js"></script>` 
