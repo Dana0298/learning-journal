@@ -10,7 +10,6 @@
 
 - Output the results
 
-
 ## **Binary & Data**
 
 All comes down to these 1's and 0's, and the electrical signals in the circuits behind them. It;s the backbone on how a computer works.
@@ -30,7 +29,7 @@ Binary number system: there are only 2 digits, 0 & 1. With these two digits we c
 
 Text, images and sound can be represented by numbers.  
 
-## **Circuits and logic.**
+## **Circuits and logic**
 Every input and output is type of information. 
 
 A simple circuit. Takes a simple cicuit (electical signal), on or off, and flips it. These perform calculations. 
