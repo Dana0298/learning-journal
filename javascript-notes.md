@@ -1,5 +1,15 @@
 ### **JavaScript**: it's where you can change how the page behaves, adding interactivity. 
 
+**Keywords:**
+
+action / flight / Behavior Layer 
+async
+dynamically
+interpreted scripting language
+variables
+data types:  numbers, strings, booleans
+what do we call these:  = , == , === 
+
 Aim to keep the three languages (HTML, CSS, JavaScript) in separate files, withthe HTML page linking to CSS and JavaScript files. 
 
 Some people browse with JavaScript turned off, so you need to make sure that the page still works for them. 
