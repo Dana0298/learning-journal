@@ -21,31 +21,29 @@ Logical operators allow you to compare the results of more than one comparison o
 
 ### Loops
 
-- 3 common types of loops:    
-    - For loops: This instructs the code to run a specified number of times.
+3 common types of loops:    
 
-
-    ```for (var i = 0; i < 10;i++) {
+- **For loops**: This instructs the code to run a specified number of times.
+```
+for (var i = 0; i < 10;i++) {
         console.log(i);
-    }```
+}
+```
+ -    **While loop**: As long as there's an empty string (as shown below), we are stuck in the while loop doing the same thing. 
 
-    - While loops:  will do the thing until not true
+ ```
+ while (name === '') {
+     name = prompt('What's your name darnit!?');
+ } 
+ ```
 
-    ```var name = prompt(what\'s your name?';
-    var attemptsAllowed = 2;
-    var attempted = 0
+ You can also use a while loop to count. Console.log(i); will print value of. And i++; will increment i, add 1 to i each time. The example below will count from 0-8. 
 
-    while(name ==='' && attempted !== attemptsAllowed) {
-        name = prompt(what\'s your name darnit!?)
-        attempted++;
-    }```
-
-    while (i < 9 ){
-        console.log(i);
-        i++;
-    } 
-
-    - Do while
-
-
-
+ ```
+ var i = 0;
+ while (i < 9 ){
+     console.log(i);
+     i++;
+ }
+ ```
+ - **Do While**: similar to while loop except the do while will always run the statements inside the curly braces at least once, even if the condition evaluates to false. 
